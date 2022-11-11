@@ -7,7 +7,7 @@
 
 ### Dentro do <b>README</b> da pasta do projeto está tudo que foi ou está sendo usando:
 
-https://github.com/thiagoadssilva/YoutubeNextJsReactCod3r/blob/main/next-crud/README.md
+https://github.com/thiagoadssilva/ThiagoTodoList/blob/main/todo-app/README.md
 
 <hr>
 
@@ -36,7 +36,7 @@ https://github.com/thiagoadssilva/YoutubeNextJsReactCod3r/blob/main/next-crud/RE
 
 ## Imagem das duas APIS
 
-![Tela Principal](image/01.PNG)
+![Tela Principal](images/01.PNG)
 
 <hr>
 
